@@ -58,4 +58,5 @@ B.Tech CSE Student
 ---
 
 ## 🌟 Conclusion
-This project demonstrates basic web development concepts like DOM manipulation, event handling, and local data storage.<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/03cbdcd0-c4c8-416c-9f88-1b7a70a9cd68" />
+This project demonstrates basic web development concepts like DOM manipulation, event handling, and local data storage. <img width="1920" height="942" alt="Output" src="https://github.com/user-attachments/assets/73faf558-1650-4bcc-8687-3807e692823d" />
+    
